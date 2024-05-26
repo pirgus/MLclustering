@@ -1,3 +1,3 @@
 # MLclustering
 
-Practical Machine Learning subject assigment envolving clustering algorithms
+Practical Machine Learning subject assignment envolving clustering algorithms
